@@ -49,6 +49,6 @@ npm run dev
 Check out the live deployed version:
 👉 https://tasktile.netlify.app
 
-##📄 License
+## 📄 License
 
 MIT
