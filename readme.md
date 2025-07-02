@@ -14,7 +14,7 @@ Create lists, add cards, drag and drop between lists, and persist your workflow 
 
 ## 📸 Screenshots
 
-![TaskTile Screenshot](https://your-screenshot-link-if-any.png)
+![TaskTile Screenshot](/src/assets/images/tasktile.png)
 
 ## 🛠️ Tech Stack
 
