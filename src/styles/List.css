@@ -1,0 +1,31 @@
+.list {
+  background-color: #101204;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 1rem;
+  border-radius: 8px;
+  min-width: 300px;
+  max-width: 300px;
+  max-height: fit-content;
+  display: flex;
+  flex-direction: column;
+}
+
+.list-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.add-card-btn {
+  display: flex;
+  align-items: center;
+}
+
+.delete-list-btn {
+  background: none;
+  fill: #b6c2cf;
+  margin: 0;
+}
+
+.delete-list-btn:hover {
+  background-color: #adadad38;
+}
